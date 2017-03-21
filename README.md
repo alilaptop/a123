@@ -6,7 +6,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/Tarfand-pro/Tarfand.git -b supergroups
+git clone https://github.com/alilaptop/a123.git -b supergroups
 cd Tarfand
 chmod +x launch.sh
 ./launch.sh install
